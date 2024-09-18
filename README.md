@@ -23,3 +23,6 @@ else:
 - `{}` is proxy list if you want to add one (optional)
 - `10` is a number of threads you want to use for downloading those images (optional)
 - `15` is the maximum number of images you want to download (optional)
+
+#Spider is in pinsterestcraper - pinterestscraper - spiders - __init__   
+##Change keywords.txt to make it run with your keywords
